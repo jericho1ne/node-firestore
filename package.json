@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "firebase-admin": "^6.4.0",
-    "got": "^9.5.1",
+    "got": "^11.8.5",
     "html-parse-stringify": "^1.0.3",
     "node-cron": "^2.0.3",
     "node-html-parser": "^1.1.11",

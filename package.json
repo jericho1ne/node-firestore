@@ -17,7 +17,7 @@
     "pm2": "^3.2.9"
   },
   "dependencies": {
-    "firebase-admin": "^6.4.0",
+    "firebase-admin": "^11.4.1",
     "got": "^9.5.1",
     "html-parse-stringify": "^1.0.3",
     "node-cron": "^2.0.3",
